@@ -1,0 +1,1 @@
+[Zone blue:Animal Hathi(elephant, mammal, herbivore);Animal Poppat(parrot, bird, omnivore);][Zone brown:][Zone gray:Animal Bessie(cow, mammal, herbivore);][Zone green:][Zone maroon:][Zone navy:Animal Beth(cow, mammal, herbivore);][Zone red:][Zone teal:][Zone yellow:Animal Kidi(ant, reptile, omnivore);]

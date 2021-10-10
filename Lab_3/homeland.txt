@@ -1,0 +1,1 @@
+[Zone yellow:][Zone green:][Zone blue:Animal Sam(lion, mammal, carnivore);][Zone red:][Zone navy:][Zone gray:][Zone brown:][Zone teal:][Zone maroon:]
