@@ -1,5 +1,6 @@
-package digmake;
 import java.util.*;
+import digmake.*;
+
 import java.io.*;
 import java.lang.*;
 
